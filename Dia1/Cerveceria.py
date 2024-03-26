@@ -1,0 +1,1 @@
+print("Tu nombre y apellido es '" + input("cual es tu nombre?: ") + " " + input("Cual es tu apellido?: ") + "'\nFelicitaciones!")

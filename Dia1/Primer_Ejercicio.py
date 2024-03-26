@@ -1,0 +1,5 @@
+print ("que nombre te gustaria poner")
+print("El nombre es " + input())
+print ("que apellido te gustaria poner")
+print("El apellido es " + input())
+print("El nombre y los apellidos son :" + input() + input())
